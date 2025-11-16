@@ -1,3 +1,3 @@
 # Atividade-de-Grafos-
-Kauã Vinicius 
+Kauã Vinicius,
 Maria Eduarda Moura
